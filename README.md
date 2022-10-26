@@ -12,7 +12,7 @@
 <hr>
 <h2>Demonstração da aplicação</h2>
 <div align="center">
-  <img border="1px" width="690" src="./imgs/responsiveRepresentation.gif" alt="">
+  <img border="1px" width="690" src="./imgs/responsiveRepresentation.gif" alt="Representação da responsividade">
   <hr>
   <div display="flex">
     <img width="500" height="400" src="./imgs/desktopRepresentation.png" alt="Representação da aplicação no Desktop">
